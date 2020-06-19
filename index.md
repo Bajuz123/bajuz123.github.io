@@ -1,1 +1,9 @@
-A website for my favourite character is currently being built here!
+# Page Title
+
+This is my favorite hero
+
+## loves to programm
+
+* loves to parachute
+* loves swimming
+* loves to sing
