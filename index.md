@@ -1,3 +1,2 @@
 # New title
-
-This is my favourite character.
+This is my beloved character.
