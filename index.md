@@ -1,1 +1,1 @@
-My new website
+New title
