@@ -1,1 +1,3 @@
-A website for my favourite character is currently being built here!
+# New title
+
+This is my favourite character.
